@@ -1,10 +1,10 @@
 {
-    "Key1": "Cat",
-    "Key2": "Dog",
+    "Key1": "Kotek",
+    "Key2": "Pies",
     "Key3": "Mouse",
     "1": "%FileSizeLimit%",
     "2": "%FileSizeLimit%MB",
     "3": "4ª and 4º ",
-    "we": "Name of your cat",
-    "1234": "head"
+    "we": "Nazwa kota",
+    "1234": "głowa"
 }
