@@ -6,5 +6,6 @@
     "2": "%FileSizeLimit%MB",
     "3": "4ª and 4º ",
     "we": "Nazwa kota",
-    "1234": "głowa"
+    "1234": "głowa",
+    "Dog": "Pies"
 }
