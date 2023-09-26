@@ -6,5 +6,6 @@
     "2": "%FileSizeLimit%MB",
     "3": "4ª and 4º ",
     "we": "Name of your cat",
-    "1234": "head"
+    "1234": "head",
+    "Dog": "Dog"
 }
